@@ -1,2 +1,2 @@
 # Programming-Language-Project
-Programming Language C final project
+Programming Language Class final project
